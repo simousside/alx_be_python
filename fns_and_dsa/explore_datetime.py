@@ -11,19 +11,20 @@ def display_current_datetime():
 
 def calculate_future_date():
 
-    try:
+    days_to_add = input("Please input the number of days to add: ")
 
-        days_to_add = int(input("Please enter the number of days to add: "))
+    while not days_to_add.isdigit():
+        print("Invalid input. Please enter a positive integer.")
+        days_to_add = input("Please input the number of days to add: ")
 
-        current_date = datetime.now()
+    days_to_add = int(days_to_add)
 
-        future_date = current_date + timedelta(days=days_to_add)
+    current_date = datetime.now()
 
-        formatted_future_date = future_date.strftime("%Y-%m-%d")
-        print(f"Future Date: {formatted_future_date}")
+    future_date = current_date + timedelta(days=days_to_add)
 
-    except ValueError:
-        print("Please enter a valid integer.")
+    formatted_future_date = future_date.strftime("%Y-%m-%d")
+    print(f"Future Date: {formatted_future_date}")
 
 
 if __name__ == "__main__":
