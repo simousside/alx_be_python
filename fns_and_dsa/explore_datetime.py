@@ -11,11 +11,11 @@ def display_current_datetime():
 
 def calculate_future_date():
 
-    days_to_add = input("Please input the number of days to add: ")
+    days_to_add = input("Enter the number of days to add to the current date:")
 
     while not days_to_add.isdigit():
         print("Invalid input. Please enter a positive integer.")
-        days_to_add = input("Please input the number of days to add: ")
+        days_to_add = input("Enter the number of days to add to the current date:")
 
     days_to_add = int(days_to_add)
 
