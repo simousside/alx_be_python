@@ -11,7 +11,6 @@ def convert_to_fahrenheit(celsius):
 
 
 def temperature_conversion_tool():
-
     temp_input = input("Enter the temperature (e.g., 32 or 100): ")
 
     if temp_input.replace('.', '', 1).isdigit():
