@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d911465-4336-4a56-b66a-28f4b1780637" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/fns_and_dsa/arithmetic_operations.py" afterDir="false" />
+    <list default="true" id="2d911465-4336-4a56-b66a-28f4b1780637" name="Changes" comment="Added arithmetic functions in arithmetic_operations.py">
+      <change afterPath="$PROJECT_DIR$/fns_and_dsa/shopping_list_manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726998027221</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added arithmetic functions in arithmetic_operations.py">
+      <option name="closed" value="true" />
+      <created>1727523450974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727523450974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added arithmetic functions in arithmetic_operations.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added arithmetic functions in arithmetic_operations.py" />
   </component>
 </project>
