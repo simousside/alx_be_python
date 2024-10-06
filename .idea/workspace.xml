@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d911465-4336-4a56-b66a-28f4b1780637" name="Changes" comment="Create the scripts that defines the safe_divide function and the one that handles command line interaction and use the safe_divide">
-      <change afterPath="$PROJECT_DIR$/programming_paradigm/simple_calculator.py" afterDir="false" />
+    <list default="true" id="2d911465-4336-4a56-b66a-28f4b1780637" name="Changes" comment="Create simple_calculator.py and test_simple_calculator.py">
+      <change afterPath="$PROJECT_DIR$/programming_paradigm/library_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_paradigm/main-1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728246507972</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Create simple_calculator.py and test_simple_calculator.py">
+      <option name="closed" value="true" />
+      <created>1728246797729</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1728246797729</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +238,7 @@
     <MESSAGE value="Added functions in temp_conversion_tool.py.py" />
     <MESSAGE value="Create the scripts that contains the definition of the BankAccount class and the one that interfaces with the BankAccount" />
     <MESSAGE value="Create the scripts that defines the safe_divide function and the one that handles command line interaction and use the safe_divide" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create the scripts that defines the safe_divide function and the one that handles command line interaction and use the safe_divide" />
+    <MESSAGE value="Create simple_calculator.py and test_simple_calculator.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create simple_calculator.py and test_simple_calculator.py" />
   </component>
 </project>
