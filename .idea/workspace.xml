@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d911465-4336-4a56-b66a-28f4b1780637" name="Changes" comment="Added functions in temp_conversion_tool.py.py">
-      <change beforePath="$PROJECT_DIR$/fns_and_dsa/temp_conversion_tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/fns_and_dsa/temp_conversion_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_paradigm/bank_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_paradigm/main-0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.bank_account.executor": "Run",
     "Python.explore_datetime.executor": "Run",
+    "Python.main-0.executor": "Run",
     "Python.match_case_calculator.executor": "Run",
     "Python.multiplication_table.executor": "Run",
     "Python.pattern_drawing.executor": "Run",
@@ -171,8 +175,35 @@
       <option name="project" value="LOCAL" />
       <updated>1727544269484</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added functions in temp_conversion_tool.py.py">
+      <option name="closed" value="true" />
+      <created>1727544737371</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727544737371</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added functions in temp_conversion_tool.py.py">
+      <option name="closed" value="true" />
+      <created>1727544944884</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1727544944884</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added arithmetic functions in arithmetic_operations.py" />
