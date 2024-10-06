@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d911465-4336-4a56-b66a-28f4b1780637" name="Changes" comment="Added functions in temp_conversion_tool.py.py">
-      <change afterPath="$PROJECT_DIR$/programming_paradigm/bank_account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming_paradigm/main-0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2d911465-4336-4a56-b66a-28f4b1780637" name="Changes" comment="Create the scripts that contains the definition of the BankAccount class and the one that interfaces with the BankAccount">
+      <change afterPath="$PROJECT_DIR$/programming_paradigm/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_paradigm/robust_division_calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727544944884</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Create the scripts that contains the definition of the BankAccount class and the one that interfaces with the BankAccount">
+      <option name="closed" value="true" />
+      <created>1728246109417</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1728246109417</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +220,7 @@
     <MESSAGE value="Added change in functions in explore_datetime.py.py" />
     <MESSAGE value="Added a simply adjusting the input prompt to a different message in functions in explore_datetime.py" />
     <MESSAGE value="Added functions in temp_conversion_tool.py.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added functions in temp_conversion_tool.py.py" />
+    <MESSAGE value="Create the scripts that contains the definition of the BankAccount class and the one that interfaces with the BankAccount" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create the scripts that contains the definition of the BankAccount class and the one that interfaces with the BankAccount" />
   </component>
 </project>
