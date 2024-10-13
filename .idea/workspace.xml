@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d911465-4336-4a56-b66a-28f4b1780637" name="Changes" comment="Creation of two Python scripts: library_system.py and main2.py. In library_system.py">
-      <change afterPath="$PROJECT_DIR$/oop/polymorphism_demo.py" afterDir="false" />
+    <list default="true" id="2d911465-4336-4a56-b66a-28f4b1780637" name="Changes" comment="Creation of two Python scripts: polymorphism_demo.py and main3.py.">
+      <change afterPath="$PROJECT_DIR$/oop/class_static_methods_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/main4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,7 @@
     "Python.main-1.executor": "Run",
     "Python.main.executor": "Run",
     "Python.main2.executor": "Run",
+    "Python.main3.executor": "Run",
     "Python.match_case_calculator.executor": "Run",
     "Python.multiplication_table.executor": "Run",
     "Python.pattern_drawing.executor": "Run",
@@ -280,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728856998099</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Creation of two Python scripts: polymorphism_demo.py and main3.py.">
+      <option name="closed" value="true" />
+      <created>1728857339315</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1728857339315</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,6 +318,7 @@
     <MESSAGE value="Create library_management.py and main-1.py" />
     <MESSAGE value="Creation of the Book class" />
     <MESSAGE value="Creation of two Python scripts: library_system.py and main2.py. In library_system.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creation of two Python scripts: library_system.py and main2.py. In library_system.py" />
+    <MESSAGE value="Creation of two Python scripts: polymorphism_demo.py and main3.py." />
+    <option name="LAST_COMMIT_MESSAGE" value="Creation of two Python scripts: polymorphism_demo.py and main3.py." />
   </component>
 </project>
